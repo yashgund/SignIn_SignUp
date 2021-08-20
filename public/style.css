@@ -1,0 +1,33 @@
+ a:hover{
+     color: black;
+ }
+ a:active{
+     background-color: grey;
+ }
+
+ .flash_error{
+     text-align: center;
+     background-color: rgba(255, 51, 0, 0.5);
+     color: rgb(153, 15, 15);
+     margin-top: 1rem;
+     border-radius: 10px;
+     padding: 0.5rem
+ }
+
+ .flash_success{
+    text-align: center;
+    background-color: rgba(117, 255, 5, 0.5);
+    color: rgb(1, 136, 1);
+    margin-top: 1rem;
+    border-radius: 10px;
+    padding: 0.5rem
+}
+.flash_warning{
+    text-align: center;
+    background-color: rgba(185, 182, 9, 0.5);
+    color: rgb(96, 112, 2);
+    margin-top: 1rem;
+    border-radius: 10px;
+    padding: 0.5rem
+}
+ 
